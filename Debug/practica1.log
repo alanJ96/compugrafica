@@ -1,0 +1,12 @@
+﻿  Final.cpp
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(691,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(692,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(696,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(697,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(699,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(700,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Final.cpp(708,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  practica1.vcxproj -> C:\Users\alan_\Desktop\tarea\2021-2\lab CompuGrafica\practica1\Debug\practica1.exe
